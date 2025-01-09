@@ -8,7 +8,7 @@ app.use(cors());
 
 // Add the welcome route
 app.get('/', (req, res) => {
-  res.send('Welcome to the Recipe Sharing Platform!');
+  res.send('Welcome1 to the Recipe Sharing Platform!');
 });
 
 // Import routes
